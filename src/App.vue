@@ -101,7 +101,7 @@ export default {
         easeLinearity: 0.25
       },
       zoom: 15,
-      path: '/static/images/', // Marker icons path
+      path: './static/images/', // Marker icons path
       center: [0.0, 0.0],
       // url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
       // attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
